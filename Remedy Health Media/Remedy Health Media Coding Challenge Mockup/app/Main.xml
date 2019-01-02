@@ -1,0 +1,32 @@
+﻿<project version="2.9" name="Remedy Health Media Coding Challenge Mockup" ID="5250C681-080E-E911-8899-3A0089189101">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtWeb" pageSize="(1100,6000)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Home" ID="6051C681-080E-E911-8899-3A0089189101" expanded="True" code="LBeXaeqrWT" thumbCode="LBeXaeqrWT" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <page name="Home Filled In" ID="9836E0AC-0A0E-E911-8899-3A0089189101" expanded="True" code="rn8DVuSESg" thumbCode="rn8DVuSESg" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="Home Submitted" ID="325E56FC-0A0E-E911-8899-3A0089189101" expanded="True" code="2CuPJia2eX" thumbCode="2CuPJia2eX" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="018C3F27DF410F5A8052A35804B6E11C.svg"/>
+        </images>
+      </page>
+    </page>
+    <page name="Guest List" ID="3C228D8B-080E-E911-8899-3A0089189101" expanded="True" code="TGx3po8WLF" thumbCode="TGx3po8WLF" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+        <image key="467605F5F90D9FF65132C1A6EF883F26.svg"/>
+      </images>
+    </page>
+  </pages>
+  <trash/>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="018C3F27DF410F5A8052A35804B6E11C.svg"/>
+    <image key="467605F5F90D9FF65132C1A6EF883F26.svg"/>
+    <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+  </images>
+</project>

@@ -1,0 +1,98 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="6051C681-080E-E911-8899-3A0089189101" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="12">
+    <control controlID="60361EA4-080E-E911-8899-3A0089189101" controlTypeID="BrowserWindow" x="43" y="30" w="1043" h="698" zOrder="0">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Remedy+Health+Challenge%0Ahttps%3A%2F%2Flocalhost%3A3000</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1246CC15-090E-E911-8899-3A0089189101" controlTypeID="Label" x="324" y="232" w="456" h="18" zOrder="1">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Please+add+your+name+and+message+below+to+be+added+to+the+Guest+List.</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="84227631-090E-E911-8899-3A0089189101" controlTypeID="Label" x="508" y="198" w="83" h="24" zOrder="2">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Welcome</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2A13E346-090E-E911-8899-3A0089189101" controlTypeID="TextInput" x="427" y="287" w="138" h="24" zOrder="3">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E674B84E-090E-E911-8899-3A0089189101" controlTypeID="TextInput" x="427" y="345" w="237" h="92" zOrder="4">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E6618756-090E-E911-8899-3A0089189101" controlTypeID="Label" x="367" y="290" w="43" h="18" zOrder="5">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Name%3A</text>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9CC68D58-090E-E911-8899-3A0089189101" controlTypeID="Label" x="358" y="341" w="64" h="18" zOrder="6">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Message%3A</text>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CC58519B-090E-E911-8899-3A0089189101" controlTypeID="Label" x="500" y="505" w="100" h="18" zOrder="7">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="3C228D8B-080E-E911-8899-3A0089189101" linkType="ltPageLink" isApplyIncludePage="False" title="Guest+List">
+          <area shape="0" alt="" ID="{A65B519B-090E-E911-8899-3A0089189101}" coords="(0,0,100,18)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Vew+Guest+List</text>
+      <textColor>4278203289</textColor>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold,fsUnderline]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D01A342D-0B0E-E911-8899-3A0089189101" controlTypeID="Button" x="479" y="455" w="136" h="28" zOrder="8">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Add+to+Guest+List</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="C6796E95-2C0E-E911-8899-3A0089189101" controlTypeID="Shape" x="97" y="119" w="915" h="34" zOrder="9">
+      <color>808714137</color>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A41EF46A-0D0E-E911-8899-3A0089189101" controlTypeID="TextArea" x="107" y="127" w="267" h="22" zOrder="10">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Your+message+has+been+submitted!</text>
+      <textColor>4278229248</textColor>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="12C9C67E-2C0E-E911-8899-3A0089189101" controlTypeID="Icon" x="978" y="124" w="24" h="24" zOrder="11">
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62469</iconCode>
+      </icon>
+      <URL>018C3F27DF410F5A8052A35804B6E11C.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

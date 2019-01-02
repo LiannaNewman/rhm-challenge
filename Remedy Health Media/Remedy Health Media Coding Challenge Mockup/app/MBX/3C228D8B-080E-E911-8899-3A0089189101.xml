@@ -1,0 +1,92 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="3C228D8B-080E-E911-8899-3A0089189101" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="10">
+    <control controlID="A6158133-0A0E-E911-8899-3A0089189101" controlTypeID="BrowserWindow" x="20" y="31" w="1043" h="698" zOrder="0">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Remedy+Health+Challenge%0Ahttps%3A%2F%2Flocalhost%3A3000%2Fguest-list</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5A18A148-0A0E-E911-8899-3A0089189101" controlTypeID="Label" x="510" y="168" w="98" h="24" zOrder="1">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Guest+List</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold,fsUnderline]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="76DF579F-0A0E-E911-8899-3A0089189101" controlTypeID="TextArea" x="324" y="292" w="240" h="71" zOrder="2">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Morbi+sed+mi+luctus%2C+tempor+arcu+nec%2C+hendrerit+purus.+Proin+non+nibh+id+elit+vulputate+ultrices.+Integer+finibus+tincidunt+leo%2C+eu+vulputate+nunc.+Praesent+elit+massa%2C+mollis+eu+magna+ac%2C+ultrices+pellentesque+arcu.+Etiam+eget+leo+et+metus+viverra+molestie+ut+eu+felis.+Morbi+sed+turpis+in+diam+malesuada+blandit+volutpat+ac+dolor.+Mauris+tincidunt+odio+quis+nunc+gravida%2C+et+fermentum+felis+ultrices.+Sed+pretium+metus+ut+ipsum+consequat+venenatis.+Fusce+nec+erat+nec+justo+tempor+elementum+non+ut+purus.+Sed+eleifend+consectetur+orci+et+maximus.+Donec+hendrerit+est+sed+orci+facilisis+luctus.+In+hac+habitasse+platea+dictumst.+Pellentesque+scelerisque%2C+lorem+quis+auctor+euismod%2C+eros+elit+mollis+ipsum%2C+ac+aliquam+nunc+libero+a+risus.+Class+aptent+taciti+sociosqu+ad+litora+torquent+per+conubia+nostra%2C+per+inceptos+himenaeos.%0D%0A</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="12D9DA27-2D0E-E911-8899-3A0089189101" controlTypeID="TextArea" x="324" y="452" w="240" h="71" zOrder="3">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Morbi+sed+mi+luctus%2C+tempor+arcu+nec%2C+hendrerit+purus.+Proin+non+nibh+id+elit+vulputate+ultrices.+Integer+finibus+tincidunt+leo%2C+eu+vulputate+nunc.+Praesent+elit+massa%2C+mollis+eu+magna+ac%2C+ultrices+pellentesque+arcu.+Etiam+eget+leo+et+metus+viverra+molestie+ut+eu+felis.+Morbi+sed+turpis+in+diam+malesuada+blandit+volutpat+ac+dolor.+Mauris+tincidunt+odio+quis+nunc+gravida%2C+et+fermentum+felis+ultrices.+Sed+pretium+metus+ut+ipsum+consequat+venenatis.+Fusce+nec+erat+nec+justo+tempor+elementum+non+ut+purus.+Sed+eleifend+consectetur+orci+et+maximus.+Donec+hendrerit+est+sed+orci+facilisis+luctus.+In+hac+habitasse+platea+dictumst.+Pellentesque+scelerisque%2C+lorem+quis+auctor+euismod%2C+eros+elit+mollis+ipsum%2C+ac+aliquam+nunc+libero+a+risus.+Class+aptent+taciti+sociosqu+ad+litora+torquent+per+conubia+nostra%2C+per+inceptos+himenaeos.%0D%0A</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8057BDF9-2C0E-E911-8899-3A0089189101" controlTypeID="Label" x="328" y="246" w="126" h="18" zOrder="4">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Nimphadora+Tonks</text>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="94D9DA27-2D0E-E911-8899-3A0089189101" controlTypeID="Label" x="328" y="406" w="104" h="18" zOrder="5">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Pomona+Sprout</text>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="906C7751-2D0E-E911-8899-3A0089189101" controlTypeID="AvatarEx2" x="242" y="229" w="61" h="61" zOrder="6">
+      <icon>
+        <ID/>
+        <iconFontName>jdiconfontB</iconFontName>
+        <iconCode>59652</iconCode>
+      </icon>
+      <URL>467605F5F90D9FF65132C1A6EF883F26.svg</URL>
+    </control>
+    <control controlID="06A20E64-2D0E-E911-8899-3A0089189101" controlTypeID="AvatarEx2" x="242" y="385" w="61" h="61" zOrder="7">
+      <icon>
+        <ID/>
+        <iconFontName>jdiconfontB</iconFontName>
+        <iconCode>59652</iconCode>
+      </icon>
+      <URL>467605F5F90D9FF65132C1A6EF883F26.svg</URL>
+    </control>
+    <control controlID="AC0C8181-2D0E-E911-8899-3A0089189101" controlTypeID="Icon" x="263" y="564" w="24" h="24" zOrder="8">
+      <color>4278190335</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62351</iconCode>
+      </icon>
+      <URL>00B95EF219967F400695DB20B0044ACF.svg</URL>
+    </control>
+    <control controlID="B4BD4DA1-2D0E-E911-8899-3A0089189101" controlTypeID="Label" x="291" y="566" w="107" h="20" zOrder="9">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="6051C681-080E-E911-8899-3A0089189101" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{98C04DA1-2D0E-E911-8899-3A0089189101}" coords="(0,0,107,20)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Back+to+Home</text>
+      <textColor>4278190335</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold,fsUnderline]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
